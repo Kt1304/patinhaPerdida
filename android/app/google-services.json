@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449867739897",
+    "project_id": "patinhaperdida-4731f",
+    "storage_bucket": "patinhaperdida-4731f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449867739897:android:9ccf4ce0451d3e3d356828",
+        "android_client_info": {
+          "package_name": "com.example.patinha_perdida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfD02vXfFDUEZs-j2-x4Gpq6mtr8sjDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
